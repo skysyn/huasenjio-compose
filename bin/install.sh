@@ -5,7 +5,7 @@ set -e
 # 获取当前脚本所在路径
 project_path=$(cd "$(dirname "$0")" && pwd)
 # Git 仓库地址及名称
-git_path="https://gitee.com/HuaSenJioJio/huasenjio-compose.git"
+git_path="https://github.com/skysyn/huasenjio-compose.git"
 git_name="huasenjio-compose"
 # docker 镜像配置文件及镜像源
 daemon_file="/etc/docker/daemon.json"
