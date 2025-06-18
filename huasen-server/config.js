@@ -72,7 +72,7 @@ const QQ_MAIL = {
   secure: true,
   auth: {
     user: '245297343@qq.com', //  QQ邮箱地址
-    pass: 'oqklgznqjvvtbhed', //  QQ邮箱地址的mtp通行码
+    pass: 'vxoshijipzevbgga', //  QQ邮箱地址的mtp通行码
   },
 };
 
